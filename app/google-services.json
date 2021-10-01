@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356372934558",
+    "project_id": "chichore-670f7",
+    "storage_bucket": "chichore-670f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356372934558:android:2488108578698bc040308f",
+        "android_client_info": {
+          "package_name": "com.example.chichore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356372934558-7428u5hrlcf3s3r4enbr3uh848usom6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT3U8yJ4a1bd4SjHnT2IGDV4w1V-b6Dic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356372934558-7428u5hrlcf3s3r4enbr3uh848usom6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
